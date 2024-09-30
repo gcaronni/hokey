@@ -1,2 +1,1 @@
-# hokey
-Ejercicio integrador GIT
+# Migthy Ducks Hockey League
